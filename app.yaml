@@ -1,0 +1,4 @@
+kind: wasmer.io/App.v0
+name: syrusakbary-new-repo-astro
+owner: syrusakbary
+package: .
